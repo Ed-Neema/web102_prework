@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://drive.google.com/file/d/1UAzCCJf7RuaEBZtqYoj9w-NSQXnkNgJm/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="./assets/Ednah_CodePathGIF.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif  
